@@ -19,6 +19,7 @@ public class Scannermethod {
 		float No=         s1.nextFloat();
 		System.out.println("Enter your Wt=");
 		double Wt=         s1.nextDouble();
+		s1.close();
 	}
 
 }
