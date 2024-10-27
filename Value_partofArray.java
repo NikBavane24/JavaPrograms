@@ -10,7 +10,7 @@ public class Value_partofArray {
 		arr1[1]=78;
 		arr1[2]=80;
 		arr1[3]=86;
-		int notcheck=78;
+		int notcheck=72;
 		for(int i=0;i<4;i++)
 		{	
 		if(notcheck==arr1[i])

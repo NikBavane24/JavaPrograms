@@ -31,11 +31,11 @@ static int count_of_specialchar;
 		}
 		
 		}
-		System.out.println(count_of_alphabet);
-		System.out.println(count_of_number);
-		System.out.println(count_of_spaces);
+		System.out.println("Alphabets= "+count_of_alphabet);
+		System.out.println("Numbers= "+count_of_number);
+		System.out.println("Spaces= "+count_of_spaces);
 		int Count_of_specialchar= c1.length-(count_of_alphabet+count_of_number+count_of_spaces);
-		System.out.println(Count_of_specialchar);
+		System.out.println("Special Char= "+Count_of_specialchar);
 		
 	}
 	
