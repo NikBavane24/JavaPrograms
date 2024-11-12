@@ -13,6 +13,7 @@ public class SBI_Bank {
 		driver.findElement(By.linkText("CONTINUE TO LOGIN")).click();
 		driver.findElement(By.className("form-control")).sendKeys("abc@deae.com");
 		driver.findElement(By.id("label2")).sendKeys("caA@1234");
+		driver.quit();
 
 	}
 
