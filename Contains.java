@@ -7,6 +7,8 @@ public class Contains {
 		String a="Nikhil Bavane";
 		boolean b=a.contains("Bavane");
 		System.out.println(b);
+		char c1 []=a.toCharArray();
+		System.out.println(c1);
 	}
 
 }

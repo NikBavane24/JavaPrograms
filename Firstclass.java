@@ -1,4 +1,4 @@
-package firstassignment;
+package assignments;
 
 public class Firstclass {
 	

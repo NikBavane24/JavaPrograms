@@ -19,7 +19,7 @@ void add()
 public class Child extends Parent {
 	void add()
 	{
-		super.add();
+		super.add(1);
 		System.out.println("Child");
 		
 	}

@@ -13,7 +13,7 @@ public class Twoarray_equals {
 		int[] arr2 = new int[3];
 		arr2[0]=1;
 		arr2[1]=2;
-		arr2[2]=5;
+		arr2[2]=3;
 		boolean b=Arrays.equals(arr1, arr2);
 		
 		if(b==true)

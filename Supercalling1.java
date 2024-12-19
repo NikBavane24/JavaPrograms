@@ -1,7 +1,7 @@
 package Practice;
 class b1
 {
-	b1(String c1)
+	b1()
 	{
 	System.out.println("1");
 	}
@@ -10,7 +10,7 @@ class b11 extends b1
 {
 	b11(int z)
 	{
-		super("NUB");
+		
 		System.out.println("2");
 	}
 	

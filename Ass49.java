@@ -10,7 +10,7 @@ public class Ass49 {
 		for(int i=0,k=2;i<=2;i++,k--)
 		{
 			char c1= a.charAt(i);
-			System.out.println(c1);
+			//System.out.println(c1);
 			char c2= a.charAt(k);
 			System.out.println(c2);
 		}

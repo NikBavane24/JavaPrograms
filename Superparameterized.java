@@ -3,7 +3,7 @@ class One1
 {
 	One1 (int a)
 	{
-		super();
+		//super();
 		System.out.println("One1");
 	}
 }

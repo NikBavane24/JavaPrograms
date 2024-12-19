@@ -10,8 +10,8 @@ public class equalignorcase {
 		System.out.println(b1);
 		
 		String b= "Kv no 2";
-		String b2=b.replace("K", "T");
-		System.out.println(b2);
+		String b3=b.replace("K", "T");
+		System.out.println(b3);
 		
 		String c= "I'm in Gurgaon";
 		String c1=c.replace("Gurgaon", "Delhi");

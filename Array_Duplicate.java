@@ -13,6 +13,13 @@ public class Array_Duplicate {
 		array[3]=84;
 		array[4]=55;
 		System.out.println(Arrays.toString(array));
+		
+		int[] array2=new int[5];
+		for(int i=0; i < 5;i++)
+		{
+			array2 [i]=array[i];
+		}
+		System.out.println(Arrays.toString(array2));
 	}
 
 }

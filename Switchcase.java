@@ -4,7 +4,7 @@ public class Switchcase {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		switch(1)
+		switch(9)
 		{
 		case 1: System.out.println("1");
 		break;

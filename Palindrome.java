@@ -3,7 +3,7 @@ package assignments;
 public class Palindrome {
 
 	public static void main(String[] args) {
-		String input="madaq";
+		String input="madam";
 		String output= "";
 		
 		for(int i=4;i>=0;i--)
