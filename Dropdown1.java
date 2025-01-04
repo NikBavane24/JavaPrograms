@@ -1,4 +1,4 @@
-package SeleniumPackage;
+package selenium_package;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

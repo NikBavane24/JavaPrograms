@@ -8,7 +8,7 @@ public class Forloop {
 		
 		for(int i=1;i<=10;i++)
 		{
-			Thread.sleep(3000);
+			Thread.sleep(1000);
 			if(i==5)
 			{
 				continue;

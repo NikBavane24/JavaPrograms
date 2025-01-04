@@ -1,4 +1,4 @@
-package SeleniumPackage;
+package selenium_package;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;

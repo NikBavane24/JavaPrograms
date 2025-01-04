@@ -17,6 +17,7 @@ public class equalignorcase {
 		String c1=c.replace("Gurgaon", "Delhi");
 		System.out.println(c1);
 		
+		
 		String d= "Kv no 2";
 		String d1=b.replace("2", "");
 		System.out.println(d1);

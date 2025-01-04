@@ -1,5 +1,7 @@
 package assignments;
 
+import java.util.Arrays;
+
 public class Contains {
 
 	public static void main(String[] args) {
@@ -8,7 +10,7 @@ public class Contains {
 		boolean b=a.contains("Bavane");
 		System.out.println(b);
 		char c1 []=a.toCharArray();
-		System.out.println(c1);
+		System.out.println(Arrays.toString(c1));
 	}
 
 }
